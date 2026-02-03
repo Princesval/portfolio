@@ -219,8 +219,8 @@ main {
 
 .img-projeto img {
     border-radius: 20px;
-    width: 450px;
-    height: 350px;
+    width: 100%;
+    height: auto;
     border: 3px solid var(--preto);
 }
 
