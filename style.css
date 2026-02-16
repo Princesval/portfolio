@@ -242,6 +242,7 @@ main {
     border: 3px solid var(--preto);
     border-radius: 12px;
     overflow: hidden;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.5);
 }
 
 .img-projeto img {
