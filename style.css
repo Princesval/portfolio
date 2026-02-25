@@ -293,9 +293,20 @@ footer p {
         padding: 0px;
     }
 
+    .logo {
+        display: none;
+    }
+
     .menu-ul {
+        padding: 25px;
         gap: 15px;
         justify-content: space-around;
+    }
+
+    main {
+        padding-top: 100px;
+        padding-right: 10px;
+        padding-left: 10px;
     }
 
     #sobre-mim {
